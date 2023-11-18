@@ -1,0 +1,19 @@
+ul.paging_num{
+    float: right;
+}
+ul.paging_num li{
+    display: inline-block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 4px;
+    border: 1px solid;
+    padding: 3px 11px;
+}
+li.active{
+    background:rgb(35, 98, 215);
+    color: white;
+
+}
+/* :hover .paging_num li{
+    background: rgb(102, 102, 244);
+} */
